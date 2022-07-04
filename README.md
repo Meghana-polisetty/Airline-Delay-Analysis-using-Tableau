@@ -11,5 +11,4 @@ Flight delays have turned out to be an essential challenge and hassle for air tr
 To lighten the negative monetary and natural effects brought about by startling flight postponements, and offset expanding flight interest with developing flight delays, an exact forecast of flight delays in air terminals is required.
 
 As part of this project, I intend to use the dataset on “Airline delay analysis” from Source: Kaggle. The dataset contains daily airline activity covering flight information, carrier company, taxing-in, taxing-out time, and generalized delay reason of exactly 10 years, from 2009 to 2019. The data consists of columns describing flight delay, carrier details, departure time, destination, and origin locations.
-![image](https://user-images.githubusercontent.com/90289879/177216364-509b9f89-7599-43d8-9f32-1834a2ea89e9.png)
 
